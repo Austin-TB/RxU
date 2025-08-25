@@ -1,0 +1,23 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pydantic_settings
+requests
+python-dotenv
+
+# Sentiment Analysis
+vaderSentiment
+transformers
+torch
+numpy
+pandas
+
+# AWS S3 Integration
+boto3
+botocore
+
+# Data Processing & Web Scraping
+beautifulsoup4
+nltk
+scikit-learn
